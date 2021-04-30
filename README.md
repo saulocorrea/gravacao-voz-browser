@@ -2,11 +2,12 @@
 
 ## Running
 
-- npm ci && npm start
+- npm ci
+- npm start
 
 ## Demo
 
-- When you click start recording it'll record your voice and then play it .
+- Ao clicar em iniciar a gravação, sua voz será gravada e ao clicar em finalizar, o áudio gravado será reproduzido.
 
 
 ## Credits
